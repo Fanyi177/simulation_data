@@ -1,2 +1,2 @@
 # simulation_data
-Simulation data supporting article "Residential VOCs from Building Materials: Exposures, Health Risks, and Ambient Implications"
+Code used for simulation data that supporting article "Residential VOCs from Building Materials: Exposures, Health Risks, and Ambient Implications"
